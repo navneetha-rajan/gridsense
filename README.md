@@ -173,4 +173,5 @@ MIT — see LICENSE.
 
 ## Submission team
 
+**Navneetha Rajan** · nrajan@asu.edu · Arizona State University
 **Divyansh Chanda** · dchanda1@asu.edu · Arizona State University
